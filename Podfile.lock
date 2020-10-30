@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.1)
+  - KakaJSON (1.1.2)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - KakaJSON (~> 1.1.2)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - KakaJSON
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  KakaJSON: cc5ff50a8c1cfbb09413db8496cb709a209e6137
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: cbeb864a97ca767b67924f124b1f5e79413a4afd
+
+COCOAPODS: 1.9.3
